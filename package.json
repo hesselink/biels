@@ -1,0 +1,20 @@
+{
+  "name": "biels",
+  "version": "0.0.0",
+  "description": "Trains and rails",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erik Hesselink",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "@types/easeljs": "^0.8.35",
+    "createjs-easeljs": "^0.8.2"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^3.0.0-beta.17",
+    "source-map-loader": "^0.1.5",
+    "typescript": "^2.1.4"
+  }
+}
